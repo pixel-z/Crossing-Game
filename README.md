@@ -1,4 +1,4 @@
-# What-does-the-FoX-SAY-
+# Crossing Game
 It is a basic crossing game.
 It is made with the help of pygame library of python
 
